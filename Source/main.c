@@ -21,7 +21,8 @@ int main()
 {
     InizializzazioneProgramma();
     CalcoloPigreco();
-    printf("\n\n\n Calcolo Terminato");
+    printf("\n\n\n Calcolo Terminato \n");
+    system("pause");
     return 0;
 }
 
